@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ##Screanshot
 
-![1][ss/1.jpeg]
+![1](ss/1.jpeg)
